@@ -1,0 +1,11 @@
+setup.py
+mailsendinghelper/__init__.py
+mailsendinghelper/handleexceptionhelper.py
+mailsendinghelper/mailtraphelper.py
+mailsendinghelper/postmarkhelper.py
+mailsendinghelper/sendgridhelper.py
+mailsendinghelper.egg-info/PKG-INFO
+mailsendinghelper.egg-info/SOURCES.txt
+mailsendinghelper.egg-info/dependency_links.txt
+mailsendinghelper.egg-info/top_level.txt
+mailsendinghelper/fastfood/mcdonalds.py
