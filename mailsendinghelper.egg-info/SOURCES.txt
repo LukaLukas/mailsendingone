@@ -11,3 +11,4 @@ mailsendinghelper.egg-info/dependency_links.txt
 mailsendinghelper.egg-info/top_level.txt
 mailsendinghelper/fastfood/burgerking.py
 mailsendinghelper/fastfood/mcdonalds.py
+mailsendinghelper/veganfood/rekalibracija.py

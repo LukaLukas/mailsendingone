@@ -8,7 +8,8 @@ setup(name='mailsendinghelper',
       # author_email='luka.pavlica93@gmail.com',
       # license='MIT',
       packages=['mailsendinghelper',
-                'mailsendinghelper.fastfood'
+                'mailsendinghelper.fastfood',
+                'mailsendinghelper.veganfood'
                 ],
       # zip_safe=False
 )
