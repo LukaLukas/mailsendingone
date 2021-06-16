@@ -8,6 +8,7 @@ mailsendinghelper/sendgridhelper.py
 mailsendinghelper.egg-info/PKG-INFO
 mailsendinghelper.egg-info/SOURCES.txt
 mailsendinghelper.egg-info/dependency_links.txt
+mailsendinghelper.egg-info/requires.txt
 mailsendinghelper.egg-info/top_level.txt
 mailsendinghelper/fastfood/burgerking.py
 mailsendinghelper/fastfood/mcdonalds.py

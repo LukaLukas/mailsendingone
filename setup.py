@@ -1,5 +1,8 @@
 from setuptools import setup
 
+with open('requirements.txt') as f:
+    required = f.read().splitlines()
+
 setup(name='mailsendinghelper',
       version='0.1',
       # description='The funniest joke in the world',
@@ -11,5 +14,6 @@ setup(name='mailsendinghelper',
                 'mailsendinghelper.fastfood',
                 'mailsendinghelper.veganfood'
                 ],
+      install_requires=required,
       # zip_safe=False
 )
